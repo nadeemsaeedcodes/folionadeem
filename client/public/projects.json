@@ -4,14 +4,14 @@
     "title": "Codenergy",
     "description": "Fullstack e‑commerce platform with modern UI and smooth checkout experience.",
     "category": "fullstack",
-    "thumbnailUrl": "/folioabid/images/fullstack1/codenergy3.PNG",
+    "thumbnailUrl": "/folionadeem/images/fullstack1/codenergy3.PNG",
     "liveUrl": "https://codenergy.ae/",
     "technologies": ["React", "Node.js", "TypeScript"],
     "images": [
       {
         "id": 1,
         "projectId": 1,
-        "imageUrl": "/folioabid/images/fullstack1/codenergy3.PNG",
+        "imageUrl": "/folionadeem/images/fullstack1/codenergy3.PNG",
         "caption": "Codenergy"
       }
     ]
@@ -21,14 +21,14 @@
     "title": "TechSynergy Website",
     "description": "designed and developed a robust enterprise-grade platform for TechSynergy, a premier IT solutions provider. The website is engineered to showcase a complex portfolio of services, including cybersecurity, cloud virtualization, and managed IT infrastructure. Featuring a sleek, professional UI/UX, the site simplifies technical data for corporate decision-makers. Optimized for high-speed performance and SEO, this digital hub integrates strategic lead generation pathways and a mobile-first architecture, positioning TechSynergy as a trusted leader in Pakistan's technology sector.",
     "category": "fullstack",
-    "thumbnailUrl": "/folioabid/images/fullstack2/techsynergy1.PNG",
+    "thumbnailUrl": "/folionadeem/images/fullstack2/techsynergy1.PNG",
     "liveUrl": "https://techsynergypk.com/",
     "technologies": ["React", "Tailwind CSS"],
     "images": [
       {
         "id": 2,
         "projectId": 2,
-        "imageUrl": "/folioabid/images/fullstack2/techsynergy1.PNG",
+        "imageUrl": "/folionadeem/images/fullstack2/techsynergy1.PNG",
         "caption": "TechSynergy hero section"
       }
     ]
@@ -38,14 +38,14 @@
     "title": "Wott Dashboard",
     "description": "Transform your software vision into reality with my custom SaaS development. I designed and developed the WoTT dashboard, a high-performance platform specializing in real-time data visualization and IoT monitoring. This project features a clean, enterprise-grade UI/UX with secure login flows, administrative controls, and advanced charting. Optimized for speed and scalability, this project reflects my expertise as a solo developer building complex, data-driven applications for the global tech sector.",
     "category": "fullstack",
-    "thumbnailUrl": "/folioabid/images/fullstack6/wott-dashboardthumbnail.png",
+    "thumbnailUrl": "/folionadeem/images/fullstack6/wott-dashboardthumbnail.png",
     "liveUrl": null,
     "technologies": ["React", "TypeScript"],
     "images": [
       {
         "id": 3,
         "projectId": 3,
-        "imageUrl": "/folioabid/images/fullstack6/wott-dashboard.png",
+        "imageUrl": "/folionadeem/images/fullstack6/wott-dashboard.png",
         "caption": "Wott Dashboard"
       }
     ]
@@ -55,14 +55,14 @@
     "title": "Food Heist",
     "description": "designed and developed a high-performance B2B website for Food Heist, an Australian leader in contract food manufacturing. Our team engineered a responsive, mobile-first platform focused on UI/UX excellence, fast loading speeds, and lead generation. By highlighting Food Heist's industrial capacity, HACCP compliance, and private labeling services, we created a digital identity that drives growth. This project showcases our expertise in FMCG web design and strategic SEO for manufacturers.",
     "category": "fullstack",
-    "thumbnailUrl": "/folioabid/images/fullstack5/fh.PNG",
+    "thumbnailUrl": "/folionadeem/images/fullstack5/fh.PNG",
     "liveUrl": null,
     "technologies": ["React", "TypeScript"],
     "images": [
       {
         "id": 4,
         "projectId": 4,
-        "imageUrl": "/folioabid/images/fullstack5/fh.PNG",
+        "imageUrl": "/folionadeem/images/fullstack5/fh.PNG",
         "caption": "Food Heist | High-Performance B2B Manufacturing Platform"
       }
     ]
@@ -72,14 +72,14 @@
     "title": "Texora",
     "description": "designed and developed a high-performance B2B platform for Texora Exports, a specialist in global textile manufacturing and garment sourcing. The website features a conversion-focused UI/UX, built to showcase premium apparel catalogs and private-label services to international buyers. Engineered for global accessibility, the site includes a mobile-first responsive design, optimized load speeds, and a secure backend. This project highlights our expertise in creating scalable digital solutions for the export industry, bridging the gap between manufacturing excellence and global retail markets.",
     "category": "fullstack",
-    "thumbnailUrl": "/folioabid/images/fullstack4/texora.PNG",
+    "thumbnailUrl": "/folionadeem/images/fullstack4/texora.PNG",
     "liveUrl": null,
     "technologies": ["React", "TypeScript"],
     "images": [
       {
         "id": 5,
         "projectId": 5,
-        "imageUrl": "/folioabid/images/fullstack4/texora.PNG",
+        "imageUrl": "/folionadeem/images/fullstack4/texora.PNG",
         "caption": "Texora Website"
       }
     ]
@@ -89,14 +89,14 @@
     "title": "FatMonks Website",
     "description": "designed and developed a dynamic, mobile-first website for Fat Monks, a leader in Western Sydney's pizza scene. The platform is engineered for high-conversion food commerce, featuring an intuitive UI/UX that streamlines online ordering and menu exploration. We prioritized high-quality visual storytelling to showcase their diverse range, from halal and keto-friendly options to unique signature pizzas. With integrated SEO and optimized performance, the site enhances local search visibility while providing a seamless, fast-loading experience for hungry customers across Sydney.",
     "category": "fullstack",
-    "thumbnailUrl": "/folioabid/images/fullstack3/fatmonksweb.PNG",
+    "thumbnailUrl": "/folionadeem/images/fullstack3/fatmonksweb.PNG",
     "liveUrl": "https://fatmonks.com.au/",
     "technologies": ["React", "Framer Motion"],
     "images": [
       {
         "id": 6,
         "projectId": 6,
-        "imageUrl": "/folioabid/images/fullstack3/fatmonksweb.PNG",
+        "imageUrl": "/folionadeem/images/fullstack3/fatmonksweb.PNG",
         "caption": "FatMonks homepage"
       }
     ]
@@ -106,14 +106,14 @@
     "title": "BisBus Fleet Management UI",
     "description": "A clean and modern web UI for BisBus, focusing on fleet monitoring, route planning, and ticket management. Designed for clarity and quick decision-making for operators.",
     "category": "uiux",
-    "thumbnailUrl": "/folioabid/images/uiux/bisbus-ui.jfif",
+    "thumbnailUrl": "/folionadeem/images/uiux/bisbus-ui.jfif",
     "liveUrl": null,
     "technologies": ["Figma", "UI/UX", "Design System"],
     "images": [
       {
         "id": 7,
         "projectId": 7,
-        "imageUrl": "/folioabid/images/uiux/bisbus-ui.jfif",
+        "imageUrl": "/folionadeem/images/uiux/bisbus-ui.jfif",
         "caption": "Dashboard interface for BisBus"
       }
     ]
@@ -123,14 +123,14 @@
     "title": "Kiddemy Mobile App UI",
     "description": "End-to-end UI/UX for Kiddemy, an educational mobile app for children. Designed playful, accessible screens that balance vibrant visuals with simple navigation.",
     "category": "uiux",
-    "thumbnailUrl": "/folioabid/images/uiux2/kiddemy-app design.png",
+    "thumbnailUrl": "/folionadeem/images/uiux2/kiddemy-app design.png",
     "liveUrl": null,
     "technologies": ["Figma", "Mobile UI", "Prototyping"],
     "images": [
       {
         "id": 8,
         "projectId": 8,
-        "imageUrl": "/folioabid/images/uiux2/kiddemy-app design.png",
+        "imageUrl": "/folionadeem/images/uiux2/kiddemy-app design.png",
         "caption": "Kiddemy app screens"
       }
     ]
@@ -140,14 +140,14 @@
     "title": "Ozuo Web Experience",
     "description": "Marketing website UI for Ozuo, focused on clear storytelling, bold typography, and conversion-oriented layout for a tech-forward brand.",
     "category": "uiux",
-    "thumbnailUrl": "/folioabid/images/uiux3/ozuo-web.png",
+    "thumbnailUrl": "/folionadeem/images/uiux3/ozuo-web.png",
     "liveUrl": null,
     "technologies": ["Figma", "Web UI", "Landing Page"],
     "images": [
       {
         "id": 9,
         "projectId": 9,
-        "imageUrl": "/folioabid/images/uiux3/ozuo-web.png",
+        "imageUrl": "/folionadeem/images/uiux3/ozuo-web.png",
         "caption": "Ozuo web homepage design"
       }
     ]
@@ -157,14 +157,14 @@
     "title": "WeChef Food App UI",
     "description": "Multi-screen app design for WeChef, covering onboarding, menu browsing, and ordering flows with emphasis on appetizing visuals and usability.",
     "category": "uiux",
-    "thumbnailUrl": "/folioabid/images/uiux4/wechef-appdesign1.png",
+    "thumbnailUrl": "/folionadeem/images/uiux4/wechef-appdesign1.png",
     "liveUrl": null,
     "technologies": ["Figma", "Design System", "Mobile UI"],
     "images": [
       {
         "id": 10,
         "projectId": 10,
-        "imageUrl": "/folioabid/images/uiux4/wechef-appdesign.png",
+        "imageUrl": "/folionadeem/images/uiux4/wechef-appdesign.png",
         "caption": "WeChef main app layout"
       }
     ]
@@ -174,14 +174,14 @@
     "title": "DogProtocol Crypto Dashboard",
     "description": "A web dashboard UI for DogProtocol, a crypto-focused product. Designed to present complex token and market data in a friendly, approachable interface.",
     "category": "uiux",
-    "thumbnailUrl": "/folioabid/images/uiux5/dogprotocol-crypto-web.png",
+    "thumbnailUrl": "/folionadeem/images/uiux5/dogprotocol-crypto-web.png",
     "liveUrl": null,
     "technologies": ["Figma", "Dashboard UI", "Crypto"],
     "images": [
       {
         "id": 13,
         "projectId": 11,
-        "imageUrl": "/folioabid/images/uiux5/dogprotocol-crypto-web.png",
+        "imageUrl": "/folionadeem/images/uiux5/dogprotocol-crypto-web.png",
         "caption": "DogProtocol dashboard overview"
       }
     ]
@@ -191,14 +191,14 @@
     "title": "MollyBet Betting Platform UI",
     "description": "Interface design for MollyBet, focusing on odds visibility, quick actions, and responsive layouts tailored for heavy daily usage by professional users.",
     "category": "uiux",
-    "thumbnailUrl": "/folioabid/images/uiux6/mollybet-web.jfif",
+    "thumbnailUrl": "/folionadeem/images/uiux6/mollybet-web.jfif",
     "liveUrl": null,
     "technologies": ["Figma", "Product UI", "Interaction Design"],
     "images": [
       {
         "id": 14,
         "projectId": 12,
-        "imageUrl": "/folioabid/images/uiux6/mollybet-web.jfif",
+        "imageUrl": "/folionadeem/images/uiux6/mollybet-web.jfif",
         "caption": "MollyBet web UI"
       }
     ]
@@ -209,14 +209,14 @@
     "description": "A high-impact social media visual for Telenor, designed to capture attention in fast-scrolling feeds with bold typography and strong focal imagery.",
     "category": "graphic",
     "subCategory": "social",
-    "thumbnailUrl": "/folioabid/images/gd/telenor-advert.PNG",
+    "thumbnailUrl": "/folionadeem/images/gd/telenor-advert.PNG",
     "liveUrl": null,
     "technologies": ["Photoshop", "Social Media Design"],
     "images": [
       {
         "id": 15,
         "projectId": 13,
-        "imageUrl": "/folioabid/images/gd/telenor-advert.PNG",
+        "imageUrl": "/folionadeem/images/gd/telenor-advert.PNG",
         "caption": "Telenor promotional creative"
       }
     ]
@@ -227,14 +227,14 @@
     "description": "Packaging design exploration for LAYS, focusing on flavor differentiation, shelf presence, and clear hierarchy between brand, variant, and messaging.",
     "category": "graphic",
     "subCategory": "package",
-    "thumbnailUrl": "/folioabid/images/gd2/LAYS-packaging.PNG",
+    "thumbnailUrl": "/folionadeem/images/gd2/LAYS-packaging.PNG",
     "liveUrl": null,
     "technologies": ["Illustrator", "Packaging Design"],
     "images": [
       {
         "id": 16,
         "projectId": 14,
-        "imageUrl": "/folioabid/images/gd2/LAYS-packaging.PNG",
+        "imageUrl": "/folionadeem/images/gd2/LAYS-packaging.PNG",
         "caption": "LAYS chips packaging design"
       }
     ]
@@ -245,14 +245,14 @@
     "description": "Poster design for Maula Jatt movie, blending strong contrast, expressive typography, and music‑driven visual elements for event promotion.",
     "category": "graphic",
     "subCategory": "social",
-    "thumbnailUrl": "/folioabid/images/gd3/MJ-Poster.PNG",
+    "thumbnailUrl": "/folionadeem/images/gd3/MJ-Poster.PNG",
     "liveUrl": null,
     "technologies": ["Photoshop", "Poster Design"],
     "images": [
       {
         "id": 17,
         "projectId": 15,
-        "imageUrl": "/folioabid/images/gd3/MJ-Poster.PNG",
+        "imageUrl": "/folionadeem/images/gd3/MJ-Poster.PNG",
         "caption": "MJ movie promotional poster"
       }
     ]
@@ -263,14 +263,14 @@
     "description": "Logo design for Weights & Measures, balancing precise geometric forms with a memorable mark that communicates accuracy and measurement.",
     "category": "graphic",
     "subCategory": "logo",
-    "thumbnailUrl": "/folioabid/images/gd4/weights&measures-logo.png",
+    "thumbnailUrl": "/folionadeem/images/gd4/weights&measures-logo.png",
     "liveUrl": null,
     "technologies": ["Illustrator", "Logo Design"],
     "images": [
       {
         "id": 18,
         "projectId": 16,
-        "imageUrl": "/folioabid/images/gd4/weights&measures-logo.png",
+        "imageUrl": "/folionadeem/images/gd4/weights&measures-logo.png",
         "caption": "Weights & Measures brand mark"
       }
     ]
@@ -281,14 +281,14 @@
     "description": "Brand mark for TCP Seafood, combining ocean-inspired forms with clean typography to build trust and freshness in the food industry.",
     "category": "graphic",
     "subCategory": "logo",
-    "thumbnailUrl": "/folioabid/images/gd5/tcp-seafood-logo.jfif",
+    "thumbnailUrl": "/folionadeem/images/gd5/tcp-seafood-logo.jfif",
     "liveUrl": null,
     "technologies": ["Illustrator", "Brand Identity"],
     "images": [
       {
         "id": 19,
         "projectId": 17,
-        "imageUrl": "/folioabid/images/gd5/tcp-seafood-logo.jfif",
+        "imageUrl": "/folionadeem/images/gd5/tcp-seafood-logo.jfif",
         "caption": "TCP Seafood logo design"
       }
     ]
@@ -299,14 +299,14 @@
     "description": "Logo exploration for a medical or wellness brand, focusing on trust, care, and longevity through color, iconography, and typography.",
     "category": "graphic",
     "subCategory": "logo",
-    "thumbnailUrl": "/folioabid/images/gd6/forever-logo-medical.jfif",
+    "thumbnailUrl": "/folionadeem/images/gd6/forever-logo-medical.jfif",
     "liveUrl": null,
     "technologies": ["Illustrator", "Logo Design"],
     "images": [
       {
         "id": 20,
         "projectId": 18,
-        "imageUrl": "/folioabid/images/gd6/forever-logo-medical.jfif",
+        "imageUrl": "/folionadeem/images/gd6/forever-logo-medical.jfif",
         "caption": "Forever Medical logo concept"
       }
     ]

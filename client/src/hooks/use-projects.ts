@@ -18,7 +18,7 @@ export function useProjects() {
   return useQuery({
     queryKey: ["projects"],
     queryFn: async () => {
-      const res = await fetch("/folioabid/projects.json");
+      const res = await fetch("/folionadeem/projects.json");
       if (!res.ok) throw new Error("Failed to fetch projects");
       const data = await res.json();
       return data as Project[];
@@ -30,7 +30,7 @@ export function useProjectsByCategory(category: string) {
   return useQuery({
     queryKey: ["projects", category],
     queryFn: async () => {
-      const res = await fetch("/folioabid/projects.json");
+      const res = await fetch("/folionadeem/projects.json");
       if (!res.ok) throw new Error(`Failed to fetch ${category} projects`);
       const data = await res.json();
       const projects = data as Project[];
@@ -44,7 +44,7 @@ export function useProject(id: number) {
   return useQuery({
     queryKey: ["project", id],
     queryFn: async () => {
-      const res = await fetch("/folioabid/projects.json");
+      const res = await fetch("/folionadeem/projects.json");
       if (!res.ok) throw new Error("Failed to fetch project");
       const data = await res.json();
       const projects = data as Project[];
